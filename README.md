@@ -1,26 +1,40 @@
-<!-- 头部：打字机动画 -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=380&lines=Open+Source+Contributor;TypeScript+Developer;Building+Something+Cool" />
-</p>
-
----
-
-<!-- 统计卡片 -->
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=shanliuling&show_icons=true&theme=radical&hide_rank=true&hide_stars=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanliuling&layout=compact&theme=radical" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0095D5&height=200&section=header&text=Zhangjinlin&fontSize=70&animation=fadeIn&fontAlignY=38" width="100%" />
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shanliuling&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150px" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shanliuling&theme=tokyonight" height="150px" />
+</p>
 </div>
 
 ---
 
-<!-- 技术栈：简洁图标行 -->
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+</p>
+
+---
+
+### 📊 Engineering Stats
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,vue,nodejs,git" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shanliuling&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170px" />
 </div>
 
 ---
 
-<!-- 底部：简洁链接 -->
-<p align="center">
-  <a href="https://github.com/shanliuling"><img src="https://img.shields.io/badge/GitHub-GitHub-black?style=flat&logo=github" /></a>
-</p>
+### 🐍 Contribution Snake
+<div align="center">
+  <img src="https://raw.githubusercontent.com/shanliuling/shanliuling/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+</div>
+
+---
+
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=shanliuling&color=0095D5&style=flat-square&label=PROFILE+VIEWS" />
+</div>
