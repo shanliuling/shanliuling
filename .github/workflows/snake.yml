@@ -1,0 +1,40 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: Platane/snk@v3
+        with:
+          username: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/profile-3d-contrib/profile-green-animate.svg
+
+      - name: Create directory for 3D contrib
+        run: mkdir -p profile-3d-contrib
+
+      - name: Move files
+        run: |
+          cp dist/github-contribution-grid-snake.svg ./
+          cp dist/profile-3d-contrib/profile-green-animate.svg ./profile-3d-contrib/
+
+      - name: Commit and Push
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add -A
+          git diff --staged --quiet || git commit -m "docs: generate snake animation"
+          git push
