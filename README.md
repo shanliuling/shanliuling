@@ -4,8 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0095D5&width=435&lines=Hi+there!+I'm+shanliuling;A+Full-stack+Product+Engineer;Passionate+about+AI+Agents+%26+Next.js" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shanliuling&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150px" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shanliuling&theme=tokyonight" height="150px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shanliuling&theme=vision-friendly-dark&hide_border=true" alt="GitHub Streak" height="150px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shanliuling&theme=vision-friendly-dark" height="150px" />
 </p>
 </div>
 
@@ -31,8 +31,9 @@
 
 ### 📊 Engineering Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shanliuling&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanliuling&layout=compact&theme=tokyonight&hide_border=true" height="170px" />
+  <!-- 隐藏了 Rank，重点展示数据，主题切换为 vision-friendly-dark -->
+  <img src="https://github-readme-stats.vercel.app/api?username=shanliuling&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true&hide_rank=true" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanliuling&layout=compact&theme=vision-friendly-dark&hide_border=true" height="170px" />
 </div>
 
 ---
