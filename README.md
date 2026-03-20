@@ -1,24 +1,25 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0095D5&height=200&section=header&text=shanliuling&fontSize=70&animation=fadeIn&fontAlignY=38" width="100%" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0095D5&width=435&lines=Hi+there!+I'm+shanliuling;A+Full-stack+Product+Engineer;Passionate+about+AI+Agents+%26+Next.js;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0095D5&width=435&lines=Hi+there!+I'm+shanliuling;A+Full-stack+Product+Engineer;Passionate+about+AI+Agents+%26+Next.js" alt="Typing SVG" />
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanliuling&layout=compact&theme=vision-friendly-dark&hide_border=true" height="150px" />
+    <!-- 隐藏了 HTML，让统计更符合实际编程情况 -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanliuling&layout=compact&theme=vision-friendly-dark&hide_border=true&hide=html" height="150px" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=shanliuling&theme=vision-friendly-dark&hide_border=true" height="150px" />
   </p>
 </div>
 
 ---
 
+<!-- 
 ### 🏆 Open Source Contributions
 I'm passionate about contributing to the open-source community. Here are some of my merged Pull Requests:
 
 - **[withastro/astro #15982](https://github.com/withastro/astro/pull/15982)**: Refactored Content Collection validation errors for better human readability.
 - **[dyoshikawa/rulesync #1322](https://github.com/dyoshikawa/rulesync/pull/1322)**: Implemented synchronization logic improvements.
 - **[langgenius/dify #33642](https://github.com/langgenius/dify/pull/33642)**: Centralized tool icon error handling in ToolManager.
-
----
+-->
 
 ### 🛠️ Tech Stack
 
