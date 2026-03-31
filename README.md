@@ -2,7 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0095D5&height=200&section=header&text=shanliuling&fontSize=70&animation=fadeIn&fontAlignY=38" width="100%" />
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0095D5&width=435&lines=Hi+there!+I'm+shanliuling;A+Full-stack+Product+Engineer;Passionate+about+AI+Agents+%26+Next.js" alt="Typing SVG" />
-
+  <img
+      src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=SHAN%20LIU%20LING&f
+      ontSize=70&animation=fadeIn&fontAlignY=35&theme=dark&desc=Full-stack%20Product%20Engineer&descSize=20&descAlignY=6
+      0&image=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndnZndnVndnVndnVndnVndnVndnVndnVndnVndnVndnVndnVndnVnd
+      m9uZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKMGpxxSUEAHS6I/giphy.gif" width="100%" />
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanliuling&layout=compact&theme=vision-friendly-dark&hide_border=true&hide=html" height="150px" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=shanliuling&theme=vision-friendly-dark&hide_border=true" height="150px" />
