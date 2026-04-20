@@ -39,7 +39,6 @@ I'm passionate about contributing to the open-source community. Here are some of
 <div align="center">
   <!-- 恢复了评分等级展示 -->
   <img src="https://github-readme-stats.vercel.app/api?username=shanliuling&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shanliuling&theme=vision-friendly-dark" width="48%" />
 </div>
 
 ---
