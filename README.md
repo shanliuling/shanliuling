@@ -1,10 +1,6 @@
 <table>
 <tr>
 <td>
-
-<!-- 统计卡片 -->
-![Metrics](https://github-readme-stats.vercel.app/api?username=shanliuling&theme=nord&hide_border=false&count_private=true&show_icons=true&icon_color=F0883E&bg_color=0d1117)
-
 <!-- 排名 -->
 ![Stats](https://github-readme-stats.vercel.app/api?username=shanliuling&theme=nord&hide_border=false&count_private=true&show_icons=true&rank_icon=percentile)
 
@@ -14,7 +10,6 @@
 </td>
 <td width="320px" align="center">
 
-<!-- 你的图片 -->
 <img src="https://raw.githubusercontent.com/shanliuling/shanliuling/main/opensource.png" width="280" alt="Profile">
 
 </td>
@@ -25,7 +20,7 @@
 
 ## Hi there 👋
 
-I'm **ShanLiuLing** (山流影)
+I'm **ShanLiuLing** 
 
 🚀 Building tools for AI coding | 💡 Creator of [skills-link](https://github.com/shanliuling/skills-link)
 
