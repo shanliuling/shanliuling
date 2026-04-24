@@ -6,7 +6,7 @@
 ![Metrics](https://github-readme-stats.vercel.app/api?username=shanliuling&theme=nord&hide_border=false&count_private=true&show_icons=true&icon_color=F0883E&bg_color=0d1117)
 
 <!-- 排名 -->
-![Rank](https://github-readme-stats.vercel.app/api/rank?username=shanliuling&theme=nord&hide_border=false)
+![Stats](https://github-readme-stats.vercel.app/api?username=shanliuling&theme=nord&hide_border=false&count_private=true&show_icons=true&rank_icon=percentile)
 
 <!-- 语言统计 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=shanliuling&theme=nord&hide_border=false&layout=compact)
