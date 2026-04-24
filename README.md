@@ -7,7 +7,6 @@
 
 ---
 
-## 📊 Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=shanliuling&theme=nord&hide_border=false&layout=compact&langs_count=5)
 
@@ -42,8 +41,8 @@
 
 I'm **ShanLiuLing**
 
-🐾 Animal Lover | Feeding cats and shipping code.
-🚀 UI Painter ➡️ AI App Architect. (Evolving...)
+🐾 Animal Lover | Feeding cats and shipping code.  
+🚀 UI Painter ➡️ AI App Architect. (Evolving...)  
 💡 A penniless indie developer clinging to any way to pay the bills and make cash.
 
 ---
