@@ -3,12 +3,12 @@
 <td width="50%">
 
 <!-- 统计卡片 -->
-![Stats](https://github-readme-stats.vercel.app/api?username=shanliuling&theme=nord&hide_border=false&count_private=true&show_icons=true&rank_icon=percentile)
+![Stats](https://github-readme-stats-psi-sable.vercel.app/api?username=shanliuling&theme=nord&hide_border=false&count_private=true&show_icons=true&rank_icon=percentile)
 
 ---
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=shanliuling&theme=nord&hide_border=false&layout=compact&langs_count=5)
+![Top Langs](https://github-readme-stats-psi-sable.vercel.app/api/top-langs?username=shanliuling&theme=nord&hide_border=false&layout=compact&langs_count=5)
 
 </td>
 <td width="50%" align="center">
