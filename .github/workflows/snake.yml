@@ -24,7 +24,21 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push snake.svg to the output branch
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Generate profile card
+        working-directory: scripts/profile
+        env:
+          # optional: add a PAT as PROFILE_TOKEN secret to include private contributions
+          PROFILE_TOKEN: ${{ secrets.PROFILE_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          npm ci
+          node generate.mjs ../../dist
+
+      - name: Push assets to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
