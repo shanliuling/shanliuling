@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate profile card
 
 on:
   schedule:
@@ -8,21 +8,13 @@ on:
     branches: [main]
 
 jobs:
-  generate-snake:
+  generate:
     runs-on: ubuntu-latest
     permissions:
       contents: write
 
     steps:
       - uses: actions/checkout@v4
-
-      - name: Generate snake.svg
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - uses: actions/setup-node@v4
         with:
@@ -36,11 +28,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           npm ci
-          node generate.mjs out
-          # dist/ is created by the snake step (Docker, root-owned)
-          sudo cp out/*.svg ../../dist/
+          node generate.mjs ../../dist
 
-      - name: Push assets to the output branch
+      - name: Push card to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
