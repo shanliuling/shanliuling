@@ -36,7 +36,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           npm ci
-          node generate.mjs ../../dist
+          node generate.mjs out
+          # dist/ is created by the snake step (Docker, root-owned)
+          sudo cp out/*.svg ../../dist/
 
       - name: Push assets to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
