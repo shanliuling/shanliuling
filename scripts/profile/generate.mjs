@@ -17,10 +17,10 @@ const CFG = {
   login: 'shanliuling',
   name: 'Spark',
   hero: path.resolve(HERE, '../../assets/hero.gif'),
-  subtitle: 'AI Engineer by day · Indie Hacker by night',
+  subtitle: 'Programmer by day · Open-source builder by night',
   tagline: [
-    'UI painter turned AI app architect.',
-    'Building tools for AI workflows, one plugin at a time.',
+    'I build plugins & CLIs for the AI agent ecosystem.',
+    'Sometimes I animate stick figures with code, too.',
   ],
   stack: [
     ['TypeScript', 'siTypescript'], ['React', 'siReact'], ['Node.js', 'siNodedotjs'],
@@ -183,11 +183,11 @@ function render(T, D, heroB64) {
   const c = T.code;
   const lines = [
     [['const ', c.kw], ['spark', c.plain], [' = {', c.punc]],
-    [['  location', c.key], [': ', c.punc], ['"Taipei"', c.str], [',', c.punc]],
-    [['  role', c.key], [':     ', c.punc], ['"UI Painter -> AI App Architect"', c.str], [',', c.punc]],
-    [['  focus', c.key], [':    ', c.punc], ['[', c.punc], ['"AI tooling"', c.str], [', ', c.punc], ['"Agents"', c.str], [', ', c.punc], ['"DX"', c.str], ['],', c.punc]],
-    [['  stack', c.key], [':    ', c.punc], ['[', c.punc], ['"TS"', c.str], [', ', c.punc], ['"tRPC"', c.str], [', ', c.punc], ['"Prisma"', c.str], [', ', c.punc], ['"Zod"', c.str], ['],', c.punc]],
-    [['  status', c.key], [':   ', c.punc], ['"will ship for coffee"', c.str], [',', c.punc]],
+    [['  builds', c.key], [':  ', c.punc], ['[', c.punc], ['"agent plugins"', c.str], [', ', c.punc], ['"dev CLIs"', c.str], [', ', c.punc], ['"AI workflows"', c.str], ['],', c.punc]],
+    [['  shipped', c.key], [': ', c.punc], ['[', c.punc], ['"dsh-image-gen"', c.str], [', ', c.punc], ['"skills-sync"', c.str], ['],', c.punc]],
+    [['  side', c.key], [':    ', c.punc], ['"code-animated stick-figure shorts"', c.str], [',', c.punc]],
+    [['  based', c.key], [':   ', c.punc], ['"Taipei"', c.str], [',', c.punc]],
+    [['  motto', c.key], [':   ', c.punc], ['"ship it first, make it pretty later"', c.str], [',', c.punc]],
     [['};', c.punc]],
     [],
     [['// open source is hard, walk and cherish.', c.num]],
