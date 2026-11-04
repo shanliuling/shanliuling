@@ -51,6 +51,3 @@ const spark = {
 
 <sub>also: tRPC · Zod · npm</sub>
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shanliuling&bg_color=00000000&color=8b949e&line=38bdf8&point=ffffff&area=true&area_color=1e3a8a&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="activity"/>
